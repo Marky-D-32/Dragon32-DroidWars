@@ -27,4 +27,6 @@ In order for this game to run on the TRS-80 Color Computer, the following ROM su
 | $90E5 (37093) | $B99C (47516) | Outputs a text string to device number in DEVN (defaults to screen) | 
 | $BA77 (47735) | $A928 (43304) | CLEAR SCREEN: clears screen to space and 'homes' cursor |
 | $BD52 (48466) | $A9DE (43486) | Reads all joysticks |
+
+<img src='./DroidWar.jpg' width=60%>
         
